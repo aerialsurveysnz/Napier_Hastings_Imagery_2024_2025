@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Hastings_Urban_10cm_Imagery_2024_2025 - Imagery_Centres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Project": "PGRM3209", "Company_Name": "Napier CC", "SN_No": "SN14365", "Description": "Central HB Urban (Tikokino) - 2025 flying 8200 ft & orthos", "OrthoGSD_m": 0.1, "PointDensity_(points/m2)": null, "Area": 342.52726667411025 }, "geometry": { "type": "Point", "coordinates": [ 176.799202144810465, -39.704741880625569 ] } }
+]
+}
